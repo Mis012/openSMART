@@ -1,3 +1,5 @@
+#moved to gitlab https://gitlab.com/Mis012/openSMART/
+
 # openSMART
 SMART 600 series custom driver
 # where is the code?
